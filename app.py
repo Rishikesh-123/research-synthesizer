@@ -5,3 +5,8 @@ from langchain_community.tools import DuckDuckGoSearchResults
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 import os
+
+#Load API KEy
+load_dotenv
+
+#We need to push something
